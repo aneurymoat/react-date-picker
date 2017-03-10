@@ -1,0 +1,22 @@
+{
+  "name": "react-date-picker",
+  "version": "1.0.0",
+  "description": "A reusable datepicker for moat pro and analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneurymoat/react-date-picker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aneurymoat/react-date-picker/issues"
+  },
+  "homepage": "https://github.com/aneurymoat/react-date-picker#readme",
+  "dependencies": {
+    "react": "^15.4.2"
+  }
+}
